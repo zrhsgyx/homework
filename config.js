@@ -8,7 +8,7 @@ var _config = {
   // Validation.
   // If validation is set to true, only issues labelled with the
   // validation_label will be used.
-  validation: true,
+  validation: false,
   validation_label: 'valid',
   
 };
