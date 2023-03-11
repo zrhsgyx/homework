@@ -1,9 +1,9 @@
 var _config = {
   
   // GitHub configuations.
-  username: '',
+  username: 'zrhsgyx',
   repo: '',
-  access_token: '',
+  access_token: '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',
   
   // Validation.
   // If validation is set to true, only issues labelled with the
