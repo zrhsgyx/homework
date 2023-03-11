@@ -2,7 +2,7 @@ var _config = {
   
   // GitHub configuations.
   username: 'zrhsgyx',
-  repo: '',
+  repo: 'https://github.com/zrhsgyx/homework.git',
   access_token: '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',
   
   // Validation.
